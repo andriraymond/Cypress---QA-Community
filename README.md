@@ -1,2 +1,2 @@
-# Cypress---QA-Community
+# Cypress - QACommunity
 Cypress - QA Community
